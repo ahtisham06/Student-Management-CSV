@@ -20,7 +20,7 @@ How to Run
 
 Make sure you have Python 3 installed.
 
-Save the script as student_management.py.
+Save the script as Student-Management-System.py
 
 Run the script:
 
