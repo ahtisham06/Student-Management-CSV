@@ -1,18 +1,27 @@
-Student Management System (CSV Based)
+Student Management System (OOP-based)
 
-This is a simple command-line Python application to manage student records using a CSV file.
+This is a simple command-line Student Management System built using Python and Object-Oriented Programming (OOP) principles. It allows users to:
 
-Features
+Add student records (name and marks)
 
-- ✅ Add new student records (Name + Marks)
-- ✅ View all stored student records
-- ✅ Data is stored in a CSV file (`students.csv`)
+View all saved student records from a CSV file
+
+Exit the program
+
+Technologies Used
+
+- Python 3
+
+- CSV module
+
+- Object-Oriented Programming (Classes, Inheritance)
 
 How to Run
 
-1. Make sure you have Python installed.
-2. Clone this repository or download the `.py` file.
-3. Run the program:
+Make sure you have Python 3 installed.
 
-bash
-python Student-Management-CSV.py
+Save the script as student_management.py.
+
+Run the script:
+
+python Student-Management-System.py
